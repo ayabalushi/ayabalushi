@@ -16,11 +16,11 @@
  ```python
  class WhoAmI:
  	user = 'Aya Al Balushi'
-		current_work = 'Full Stack Developer'
-		hobbies = [
-				'Hiking',
-				'Exploring new technologies and ideas'
-			]
+	current_work = 'Full Stack Developer'
+	hobbies = [
+	           'Hiking',
+	           'Exploring new technologies and ideas'
+	          ]
 	
 	def getCity():
 		return 'Muscat, Oman'
